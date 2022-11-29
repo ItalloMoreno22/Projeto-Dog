@@ -1,4 +1,4 @@
-export interface Message {
+export interface Messa {
   message:string;
   status: string;
 }
