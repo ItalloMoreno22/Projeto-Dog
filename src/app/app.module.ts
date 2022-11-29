@@ -4,11 +4,13 @@ import {HttpClientModule} from '@angular/common/http';
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 import { DogzComponent } from './DOG/dogz.component';
+import { DOGComponent } from './dog/dog.component';
 
 @NgModule({
   declarations: [
     AppComponent,
-    DogzComponent
+    DogzComponent,
+    DOGComponent
   ],
   imports: [
     BrowserModule,
