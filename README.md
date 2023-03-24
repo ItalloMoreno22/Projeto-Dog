@@ -1,2 +1,2 @@
 # DOG API
-TRAFFIC LIGHT MADE WITH HTML CSS JAVASCRIPT
+Consumindo a API DOG usando JavaScript e TypeScript .
